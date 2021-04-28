@@ -12,7 +12,6 @@ Conheça mais sobre os meus projetos, publicações na área de dados.
 * Meu canal no [YouTube](https://www.youtube.com/channel/UCdpeqZIZ1JGZk2PywYTcQdw)
 
 
-# Projeto E-commerce
 
 # Projeto_Ecommerce_
 Projeto de análise e construção de modelos de previsão, classificação ,recomendação e Série temporal.
